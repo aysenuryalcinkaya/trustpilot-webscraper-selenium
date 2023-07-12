@@ -1,0 +1,190 @@
+Category Name,Formatted Category
+Animal Health,animal_health
+Animal Parks & Zoo,animal_parks_zoo
+Cats & Dogs,cats_dogs
+Horses & Riding,horses_riding
+Pet Services,pet_services
+Pet Stores,pet_stores
+Cosmetics & Makeup,cosmetics_makeup
+Hair Care & Styling,hair_care_styling
+Personal Care,personal_care
+Salons & Clinics,salons_clinics
+Tattoos & Piercings,tattoos_piercings
+Wellness & Spa,wellness_spa
+Yoga & Meditation,yoga_meditation
+Administration & Services,administration_services
+Associations & Centers,associations_centers
+HR & Recruiting,hr_recruiting
+Import & Export,import_export
+IT & Communication,it_communication
+Office Space & Supplies,office_space_supplies
+Print & Graphic Design,print_graphic_design
+Research & Development,research_development
+Sales & Marketing,sales_marketing
+Shipping & Logistics,shipping_logistics
+Wholesale,wholesale
+Architects & Engineers,architects_engineers
+Building Materials,building_materials
+Chemicals & Plastic,chemicals_plastic
+Construction Services,construction_services
+Contractors & Consultants,contractors_consultants
+Factory Equipment,factory_equipment
+Garden & Landscaping,garden_landscaping
+Industrial Supplies,industrial_supplies
+Manufacturing,manufacturing
+Production Services,production_services
+Tools & Equipment,tools_equipment
+Colleges & Universities,colleges_universities
+Courses & Classes,courses_classes
+Education Services,education_services
+Language Learning,language_learning
+Music & Theater Classes,music_theater_classes
+School & High School,school_high_school
+Specials Schools,specials_schools
+Vocational Training,vocational_training
+Appliances & Electronics,appliances_electronics
+Audio & Visual,audio_visual
+Computers & Phones,computers_phones
+Internet & Software,internet_software
+Repair & Services,repair_services
+Adult Entertainment,adult_entertainment
+Children's Entertainment,childrens_entertainment
+Clubbing & Nightlife,clubbing_nightlife
+Events & Venues,events_venues
+Gambling,gambling
+Gaming,gaming
+Museums & Exhibits,museums_exibits
+Music & Movies,music_movies
+Theater & Opera,theater_opera
+Wedding & Party,wedding_party
+Agriculture & Produce,agriculture_produce
+Asian Grocery Stores,asian_grocery_stores
+Bakery & Pastry,bakery_pastry
+Beer & Wine,beer_wine
+Beverages & Liquor,beverages_liquor
+Candy & Chocolate,candy_chocolate
+Coffee & Tea,coffee_tea
+Food Production,food_production
+Fruits & Vegetables,fruits_vegetables
+Grocery Stores & Markets,grocery_stores_markets
+Lunch & Catering,lunch_catering
+"Meat, Seafood & Eggs",meat_seafood_eggs
+Smoking & Tobacco,smoking_tobacco
+Clinics,clinics
+Dental Services,dental_services
+Diagnostics & Testing,diagnostics_testing
+Doctors & Surgeons,doctors_surgeons
+Health Equipment,health_equipment
+Hospital & Emergency,hospital_emergency
+Medical Specialists,medical_specialists
+Mental Health,mental_health
+Pharmacy & Medicine,pharmacy_medicine
+Physical Aids,physical_aids
+Pregnancy & Children,pregnancy_children
+Therapy & Senior Health,therapy_senior_health
+Vision & Hearing,vision_hearing
+Art & Handicraft,art_handicraft
+Astrology & Numerology,astrology_numerology
+Fishing & Hunting,fishing_hunting
+Hobbies,hobbies
+"Metal, Stone & Glass Work",metal_stone_glass_work
+Music & Instruments,music_instruments
+Needlework & Knitting,needlework_knitting
+Outdoor Activities,outdoor_activities
+Painting & Paper,painting_paper
+Bathroom & Kitchen,bathroom_kitchen
+Cultural Goods,cultural_goods
+Decoration & Interior,decoration_interior
+Energy & Heating,energy_heating
+Fabric & Stationery,fabric_stationary
+Furniture Stores,furniture_stores
+Garden & Pond,garden_pond
+Home & Garden Services,home_garden_services
+Home Goods Stores,home_goods_stores
+Home Improvements,home_improvements
+Cleaning Service Providers,cleaning_service_providers
+Craftsman,craftsman
+House Services,house_services
+House Sitting & Security,house_sitting_security
+Moving & Storage,moving_storage
+Plumbing & Sanitation,plumbing_sanitation
+Repair Service Providers,repair_service_providers
+Customs & Toll,customs_toll
+Government Department,government_department
+Law Enforcement,law_enforcement
+Lawyers & Attorneys,lawyers_attorneys
+Legal Service Providers,legal_service_providers
+Libraries & Archives,libraries_archives
+Municipal Department,municipal_department
+Registration Services,registration_services
+Books & Magazines,books_magazines
+Media & Information,media_information
+Photography,photography
+Video & Sound,video_sound
+Accounting & Tax,accounting_tax
+Banking & Money,banking_money
+Credit & Debt Services,credit_debt_services
+Insurance,insurance
+Investments & Wealth,investments_wealth
+Real Estate,real_estate
+Employment & Career,employment_career
+Funeral & Memorial,funeral_memorial
+Housing Associations,housing_associations
+Kids & Family,kids_family
+Military & Veteran,military_veteran
+Nature & Environment,nature_environment
+Professional Organizations,professional_organizations
+Public Services & Welfare,public_services_welfare
+Religious Institutions,religious_institutions
+Shelters & Homes,shelters_homes
+Waste Management,waste_management
+African & Pacific Cuisine,african_pacific_cuisine
+Bars & Cafes,bars_cafes
+Chinese & Korean Cuisine,chinese_korean_cuisine
+European Cuisine,european_cuisine
+General Restaurants,general_restaurants
+Japanese Cuisine,japanese_cuisine
+Mediterranean Cuisine,mediterranean_cuisine
+Middle Eastern Cuisine,middle_eastern_cuisine
+North & South American Cuisine,north_south_american_cuisine
+Southeast Asian Cuisine,southeast_asian_cuisine
+Takeaway,takeaway
+Vegetarian & Diet,vegetarian_diet
+Accessories,accessories
+Clothing & Underwear,clothing_underwear
+Clothing Rental & Repair,clothing_rental_repair
+Costume & Wedding,costume_wedding
+Jewelry & Watches,jewelry_watches
+Malls & Marketplaces,malls_marketplaces
+Ball Games,ball_games
+Bat-and-ball Games,bat-and-ball_games
+Bowls & Lawn Sports,bowls_lawn_sports
+Dancing & Gymnastics,dancing_gymnastics
+Equipment & Associations,equipment_associations
+Extreme Sports,extreme_sports
+Fitness & Weight Lifting,fitness_weight_lifting
+Golf & Ultimate,golf_ultimate
+Hockey & Ice Skating,hockey_ice_skating
+Martial arts & Wrestling,martial_arts_wrestling
+Outdoor & Winter Sports,outdoor_winter_sports
+Shooting & Target Sports,shooting_target_sports
+Swimming & Water Sports,swimming_water_sports
+Tennis & Racquet Sports,tennis_racquet_sports
+Accommodation & Lodging,accomodations_lodging
+Activities & Tours,activities_tours
+Airlines & Air Travel,airlines_air_travel
+Hotels,hotels
+Travel Agencies,travel_agencies
+Energy & Power,energy_power
+Oil & Fuel,oil_fuel
+Water Utilities,water_utilities
+Air & Water Transport,air_water_transport
+Airports & Parking,airports_parking
+Auto Parts & Wheels,auto_parts_wheels
+Bicycles,bicycles
+Cars & Trucks,cars_trucks
+Motorcycle & Powersports,motorcycle_powersports
+Other Vehicles & Trailers,other_vehicles_trailers
+Taxis & Public Transport,taxis_public_transport
+Vehicle Rental,vehical_rental
+Vehicle Repair & Fuel,vehicle_repair_fuel
